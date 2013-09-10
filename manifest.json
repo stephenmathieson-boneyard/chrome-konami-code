@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Konami Code",
+  "version": "0.1.0",
+  "description": "Konami Code fun",
+  "content_scripts":
+  [
+    {
+      "matches": [ "*://*/*" ],
+      "js": [ "build.js" ],
+      "css": [ "build.css" ],
+      "run_at": "document_end"
+    }
+  ]
+}
+
