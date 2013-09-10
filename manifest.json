@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Konami Code",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Konami Code fun",
   "content_scripts":
   [
