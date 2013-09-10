@@ -10,7 +10,7 @@
   3. Run `make`
   4. Open chrome://extensions
   5. Enable *Developer mode*
-  6. Load unpacked extension
+  6. Load unpacked extension in `./build`
 
 ## License
 
